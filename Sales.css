@@ -1,0 +1,16 @@
+.REST{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap: 20px;
+    font-weight:bold ;
+    text-align: center;
+    align-items: center;
+}
+
+.VARIOUS-RESTAURANTS{
+    color: red;
+}
+
+
+
+
